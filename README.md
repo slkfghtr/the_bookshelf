@@ -1,2 +1,2 @@
 # the_bookshelf
-It's a start of anew project of sharing old books at home 
+It's the repository of projects of sharing information about old books at home 
